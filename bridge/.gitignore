@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.py[cod]
+temp/
+test_temp/
+*.mp4
+*.ts
+*.m3u8
+*.log
+mcp_payload.json
